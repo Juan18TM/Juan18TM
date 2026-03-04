@@ -15,7 +15,7 @@
 ### ✨ Sobre mí
 -Soy tecnologo en desarrollo de software de la universidad del valle 
 - 🎓 Estudiante / Desarrollador  
-- 🧠 Interesado en **Backend, Frontend y DevOps**
+- 🧠 Interesado en **Full stack**
 - 🌱 Siempre aprendiendo cosas nuevas
 
 ### 🛠️ Tecnologías
@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
 
 ### 🌐 Encuéntrame
 - 🌍 Portafolio: ()**
